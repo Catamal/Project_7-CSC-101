@@ -28,7 +28,7 @@ from typing import List, Optional  # Describes list and optional return types.
 # this type of hint is to acknowledge its meant to be a str 
 # ex. -> None; -> str
 # this type of hint shows whether a function needs to display 
-# a useful value; None = it isn't meant to
+# a useful value; None = not meant to display anything
 
 
 class Pokemon:
